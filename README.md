@@ -1,7 +1,7 @@
 # arkademybatch11-2
 Tes Kloter 2
-Penjelasan No 1 Json adalah file berformat teks hasil dari data rest api
-Aplikasi: VSCODE, XAMPP, Materialize, Google Icon
+Penjelasan No 1 Json adalah file berformat teks hasil dari data rest api <br>
+Aplikasi: VSCODE, XAMPP, Materialize, Google Icon <br>
 http://localhost/latihan/arkademybatch11-2/no1.php
 http://localhost/latihan/arkademybatch11-2/no2.php
 http://localhost/latihan/arkademybatch11-2/no3.php
