@@ -10,5 +10,5 @@ http://localhost/latihan/arkademybatch11-2/no5.php
 http://localhost/latihan/arkademybatch11-2/no6.php
 http://localhost/latihan/arkademybatch11-2/no7/no7a.php
 http://localhost/latihan/arkademybatch11-2/no7/no7b.php
-http://localhost/latihan/arkademybatch11-2/no7/no7c.php
+http://localhost/latihan/arkademybatch11-2/no7/no7c.php <br>
 Screenshoot no 7:
